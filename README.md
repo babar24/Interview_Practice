@@ -3,10 +3,10 @@ This repository can be used for quick revisions of concepts of SQL which include
 
 <u>Note</u>: All the numeric data types may have an extra option: UNSIGNED or ZEROFILL. If you add the UNSIGNED option, MySQL disallows negative values for the column. If you add the ZEROFILL option, MySQL automatically also adds the UNSIGNED attribute to the column.
 
-[Examples of window funcions](https://www.sqltutorial.org/sql-window-functions/)
-[More Examples on Data Types](https://blog.devart.com/mysql-data-types.html)
-[SQL Constraints](https://www.w3schools.com/sql/sql_constraints.asp)
-[ROWS BETWEEN vs RANGE BETWEEN](https://dev.mysql.com/doc/refman/8.4/en/window-functions-frames.html)
+* [Examples of window funcions](https://www.sqltutorial.org/sql-window-functions/)
+* [More Examples on Data Types](https://blog.devart.com/mysql-data-types.html)
+* [SQL Constraints](https://www.w3schools.com/sql/sql_constraints.asp)
+* [ROWS BETWEEN vs RANGE BETWEEN](https://dev.mysql.com/doc/refman/8.4/en/window-functions-frames.html)
 
 ### Data Manipulation Language (DML) Commands
 
